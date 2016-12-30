@@ -1,0 +1,103 @@
+DialogTramIntent {Route}
+DialogTramIntent {Route} {Stop}
+DialogTramIntent {Stop}
+
+OneShotTramIntent get arrival time
+OneShotTramIntent get arrival time for {Route} at {Stop}
+OneShotTramIntent get arrival time for {Route}
+OneShotTramIntent get the arrival time
+OneShotTramIntent get the arrival time for {Route} at {Stop}
+OneShotTramIntent get the arrival time for {Route}
+OneShotTramIntent get arrival time information
+OneShotTramIntent get arrival time information for {Route} at {Stop}
+OneShotTramIntent get arrival time information for {Route}
+OneShotTramIntent get the arrival time information
+OneShotTramIntent get the arrival time information for {Route} at {Stop}
+OneShotTramIntent get the arrival time information for {Route}
+OneShotTramIntent get arrival information
+OneShotTramIntent get arrival information for {Route} at {Stop}
+OneShotTramIntent get arrival information for {Route}
+OneShotTramIntent get the arrival information
+OneShotTramIntent get the arrival information for {Route} at {Stop}
+OneShotTramIntent get the arrival information for {Route}
+OneShotTramIntent get arrival
+OneShotTramIntent get arrival for {Route} at {Stop}
+OneShotTramIntent get arrival for {Route}
+OneShotTramIntent get the arrival
+OneShotTramIntent get the arrival for {Route} at {Stop}
+OneShotTramIntent get the arrival for {Route}
+OneShotTramIntent what is arrival time
+OneShotTramIntent what is arrival time for {Route} at {Stop}
+OneShotTramIntent what is arrival time for {Route}
+OneShotTramIntent what is the arrival time
+OneShotTramIntent what is the arrival time for {Route} at {Stop}
+OneShotTramIntent what is the arrival time for {Route}
+OneShotTramIntent what is arrival time information
+OneShotTramIntent what is arrival time information for {Route} at {Stop}
+OneShotTramIntent what is arrival time information for {Route}
+OneShotTramIntent what is the arrival time information
+OneShotTramIntent what is the arrival time information for {Route} at {Stop}
+OneShotTramIntent what is the arrival time information for {Route}
+OneShotTramIntent what is arrival information
+OneShotTramIntent what is arrival information for {Route} at {Stop}
+OneShotTramIntent what is arrival information for {Route}
+OneShotTramIntent what is the arrival information
+OneShotTramIntent what is the arrival information for {Route} at {Stop}
+OneShotTramIntent what is the arrival information for {Route}
+OneShotTramIntent what is arrival
+OneShotTramIntent what is arrival for {Route} at {Stop}
+OneShotTramIntent what is arrival for {Route}
+OneShotTramIntent what is the arrival
+OneShotTramIntent what is the arrival for {Route} at {Stop}
+OneShotTramIntent what is the arrival for {Route}
+OneShotTramIntent when is arrival time
+OneShotTramIntent when is arrival time for {Route} at {Stop}
+OneShotTramIntent when is arrival time for {Route}
+OneShotTramIntent when is the arrival time
+OneShotTramIntent when is the arrival time for {Route} at {Stop}
+OneShotTramIntent when is the arrival time for {Route}
+OneShotTramIntent when is arrival time information
+OneShotTramIntent when is arrival time information for {Route} at {Stop}
+OneShotTramIntent when is arrival time information for {Route}
+OneShotTramIntent when is the arrival time information
+OneShotTramIntent when is the arrival time information for {Route} at {Stop}
+OneShotTramIntent when is the arrival time information for {Route}
+OneShotTramIntent when is arrival information
+OneShotTramIntent when is arrival information for {Route} at {Stop}
+OneShotTramIntent when is arrival information for {Route}
+OneShotTramIntent when is the arrival information
+OneShotTramIntent when is the arrival information for {Route} at {Stop}
+OneShotTramIntent when is the arrival information for {Route}
+OneShotTramIntent when is arrival
+OneShotTramIntent when is arrival for {Route} at {Stop}
+OneShotTramIntent when is arrival for {Route}
+OneShotTramIntent when is the arrival
+OneShotTramIntent when is the arrival for {Route} at {Stop}
+OneShotTramIntent when is the arrival for {Route}
+OneShotTramIntent when will the {Route} arrive at {Stop}
+OneShotTramIntent when will {Route} arrive at {Stop}
+OneShotTramIntent when will the {Route} arrive
+OneShotTramIntent when will {Route} arrive
+
+SupportedRoutesIntent what routes
+SupportedRoutesIntent what routes do you know
+SupportedRoutesIntent which routes
+SupportedRoutesIntent which routes do you know
+SupportedRoutesIntent which routes you have arrival information for
+SupportedRoutesIntent for which routes you have arrival information
+SupportedRoutesIntent what routes you have arrival information for
+SupportedRoutesIntent for what routes you have arrival information 
+SupportedRoutesIntent what routes are supported
+SupportedRoutesIntent which routes are supported
+SupportedRoutesIntent which routes
+SupportedRoutesIntent which routes do you know
+
+SupportedAnnouncementsIntent what announcements
+SupportedAnnouncementsIntent what are the announcements
+SupportedAnnouncementsIntent what are the current announcements
+SupportedAnnouncementsIntent what are the new announcements
+SupportedAnnouncementsIntent what are the todays announcements
+SupportedAnnouncementsIntent what announcements are listed
+SupportedAnnouncementsIntent which announcements are listed
+SupportedAnnouncementsIntent which announcements
+SupportedAnnouncementsIntent which announcements do you know

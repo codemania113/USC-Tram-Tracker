@@ -1,0 +1,45 @@
+{
+  "intents": [
+    {
+      "intent": "OneshotTramIntent",
+      "slots": [
+        {
+          "name": "Route",
+          "type": "LIST_OF_ROUTES"
+        },
+        {
+          "name": "Stop",
+          "type": "LIST_OF_STOPS"
+        }
+      ]
+    },
+    {
+      "intent": "DialogTramIntent",
+      "slots": [
+        {
+          "name": "Route",
+          "type": "LIST_OF_ROUTES"
+        },
+        {
+          "name": "Stop",
+          "type": "LIST_OF_STOPS"
+        }
+      ]
+    },
+    {
+      "intent": "SupportedRoutesIntent"
+    },
+	{
+      "intent": "SupportedAnnouncementsIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
